@@ -1,0 +1,1773 @@
+{
+    "1": {
+        "Description": "Independent Regions",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "2": {
+        "Description": "The Distribution Of Towns",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "3": {
+        "Description": "City Country Fingers",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "4": {
+        "Description": "Agricultural Valleys",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "5": {
+        "Description": "Lace Of Country Streets",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "6": {
+        "Description": "Country Towns",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "7": {
+        "Description": "The Countryside",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "8": {
+        "Description": "Mosaic Of Subcultures",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "9": {
+        "Description": "Scattered Work",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "10": {
+        "Description": "Magic Of The City",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "11": {
+        "Description": "Local Transport Areas",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "12": {
+        "Description": "Community Of 7000",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "13": {
+        "Description": "Subculture Boundary",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "14": {
+        "Description": "Identifiable Neighborhood",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "15": {
+        "Description": "Neighborhood Boundary",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "16": {
+        "Description": "Web Of Public Transportation",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "17": {
+        "Description": "Ring Roads",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "18": {
+        "Description": "Network Of Learning",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "19": {
+        "Description": "Web Of Shopping",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "20": {
+        "Description": "Mini-Buses",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "21": {
+        "Description": "Four-Story Limit",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "22": {
+        "Description": "Nine Per Cent Parking",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "23": {
+        "Description": "Parallel Roads",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "24": {
+        "Description": "Sacred Sites",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "25": {
+        "Description": "Access To Water",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "26": {
+        "Description": "Life Cycle",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "27": {
+        "Description": "Men And Women",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "28": {
+        "Description": "Eccentric Nucleus",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "29": {
+        "Description": "Density Rings",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "30": {
+        "Description": "Activity Nodes",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "31": {
+        "Description": "Promenade",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "32": {
+        "Description": "Shopping Street",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "33": {
+        "Description": "Night Life",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "34": {
+        "Description": "Interchange",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "35": {
+        "Description": "Household Mix",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "36": {
+        "Description": "Degrees Of Publicness",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "37": {
+        "Description": "House Cluster",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "38": {
+        "Description": "Row Houses",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "39": {
+        "Description": "Housing Hill",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "40": {
+        "Description": "Old People Everywhere",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "41": {
+        "Description": "Work Community",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "42": {
+        "Description": "Industrial Ribbon",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "43": {
+        "Description": "University As Marketplace",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "44": {
+        "Description": "Local Town Hall",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "45": {
+        "Description": "Necklace Of Community Projects",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "46": {
+        "Description": "Market Of Many Shops",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "47": {
+        "Description": "Health Center",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "48": {
+        "Description": "Housing In Between",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "49": {
+        "Description": "Looped Local Roads",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "50": {
+        "Description": "T Junctions",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "51": {
+        "Description": "Green Streets",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "52": {
+        "Description": "Network Of Paths And Cars",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "53": {
+        "Description": "Main Gateways",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "54": {
+        "Description": "Road Crossing",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "55": {
+        "Description": "Raised Walk",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "56": {
+        "Description": "Bike Paths And Racks",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "57": {
+        "Description": "Children In The City",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "58": {
+        "Description": "Carnival",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "59": {
+        "Description": "Quiet Backs",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "60": {
+        "Description": "Accessible Green",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "61": {
+        "Description": "Small Public Squares",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "62": {
+        "Description": "High Places",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "63": {
+        "Description": "Dancing In The Streets",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "64": {
+        "Description": "Pools And Streams",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "65": {
+        "Description": "Birth Places",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "66": {
+        "Description": "Holy Ground",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "67": {
+        "Description": "Common Land",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "68": {
+        "Description": "Connected Play",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "69": {
+        "Description": "Public Outdoor Room",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "70": {
+        "Description": "Grave Sites",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "71": {
+        "Description": "Still Water",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "72": {
+        "Description": "Local Sports",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "73": {
+        "Description": "Adventure Playground",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "74": {
+        "Description": "Animals",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "75": {
+        "Description": "The Family",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "76": {
+        "Description": "House For A Small Family",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "77": {
+        "Description": "House For A Couple",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "78": {
+        "Description": "House For One Person",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "79": {
+        "Description": "Your Own Home",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "80": {
+        "Description": "Self-Governing Workshops And Offices",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "81": {
+        "Description": "Small Services Without Red Tape",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "82": {
+        "Description": "Office Connections",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "83": {
+        "Description": "Master And Aprentices",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "84": {
+        "Description": "Teenage Society",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "85": {
+        "Description": "Shopfront Schools",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "86": {
+        "Description": "Children's Home",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "87": {
+        "Description": "Individually Owned Shops",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "88": {
+        "Description": "Street Cafe",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "89": {
+        "Description": "Corner Grocery",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "90": {
+        "Description": "Beer Hall",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "91": {
+        "Description": "Traveler's Inn",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "92": {
+        "Description": "Bus Stop",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "93": {
+        "Description": "Food Stands",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "94": {
+        "Description": "Sleeping In Public",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "95": {
+        "Description": "Building Complex",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "96": {
+        "Description": "Number Of Stories",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "97": {
+        "Description": "Shielded Parking",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "98": {
+        "Description": "Circulation Realms",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "99": {
+        "Description": "Main Building",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "100": {
+        "Description": "Pedestrian Street",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "101": {
+        "Description": "Building Thoroughfare",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "102": {
+        "Description": "Family Of Entrances",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "103": {
+        "Description": "Small Parking Lots",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "104": {
+        "Description": "Site Repair",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "105": {
+        "Description": "South Facing Outdoors",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "106": {
+        "Description": "Positive Outdoor Space",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "107": {
+        "Description": "Wings Of Light",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "108": {
+        "Description": "Connected Buildings",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "109": {
+        "Description": "Long Thin House",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "110": {
+        "Description": "Main Entrance",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "111": {
+        "Description": "Half-Hidden Garden",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "112": {
+        "Description": "Entrance Transition",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "113": {
+        "Description": "Car Connection",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "114": {
+        "Description": "Hierarchy Of Open Space",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "115": {
+        "Description": "Courtyards Which Live",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "116": {
+        "Description": "Cascade Of Roofs",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "117": {
+        "Description": "Sheltering Roof",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "118": {
+        "Description": "Roof Garden",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "119": {
+        "Description": "Arcades",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "120": {
+        "Description": "Paths And Goals",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "121": {
+        "Description": "Path Shape",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "122": {
+        "Description": "Building Fronts",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "123": {
+        "Description": "Pedestrian Density",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "124": {
+        "Description": "Activity Pockets",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "125": {
+        "Description": "Stair Seats",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "126": {
+        "Description": "Something Roughly In The Middle",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "127": {
+        "Description": "Intimacy Gradient",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "128": {
+        "Description": "Indoor Sunlight",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "129": {
+        "Description": "Common Areas At The Heart",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "130": {
+        "Description": "Entrance Room",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "131": {
+        "Description": "The Flow Through Rooms",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "132": {
+        "Description": "Short Passages",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "133": {
+        "Description": "Staircase As A Stage",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "134": {
+        "Description": "Zen View",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "135": {
+        "Description": "Tapestry Of Light And Dark",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "136": {
+        "Description": "Couple's Realm",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "137": {
+        "Description": "Children's Realm",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "138": {
+        "Description": "Sleeping To The East",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "139": {
+        "Description": "Farmhouse Kitchen",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "140": {
+        "Description": "Private Terrace On The Street",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "141": {
+        "Description": "A Room Of One's Own",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "142": {
+        "Description": "Sequence Of Sitting Spaces",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "143": {
+        "Description": "Bed Cluster",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "144": {
+        "Description": "Bathing Room",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "145": {
+        "Description": "Bulk Storage",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "146": {
+        "Description": "Flexible Office Space",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "147": {
+        "Description": "Communal Eating",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "148": {
+        "Description": "Small Work Groups",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "149": {
+        "Description": "Reception Welcomes You",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "150": {
+        "Description": "A Place To Wait",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "151": {
+        "Description": "Small Meeting Rooms",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "152": {
+        "Description": "Half-Private Office",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "153": {
+        "Description": "Rooms To Rent",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "154": {
+        "Description": "Teenager's Cottage",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "155": {
+        "Description": "Old Age Cottage",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "156": {
+        "Description": "Settled Work",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "157": {
+        "Description": "Home Workshop",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "158": {
+        "Description": "Open Stairs",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "159": {
+        "Description": "Light On Two Sides Of Every Room",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "160": {
+        "Description": "Building Edge",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "161": {
+        "Description": "Sunny Place",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "162": {
+        "Description": "North Face",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "163": {
+        "Description": "Outdoor Room",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "164": {
+        "Description": "Street Windows",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "165": {
+        "Description": "Opening To The Street",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "166": {
+        "Description": "Gallery Surround",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "167": {
+        "Description": "Six-Foot Balcony",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "168": {
+        "Description": "Connection To The Earth",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "169": {
+        "Description": "Terraced Slope",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "170": {
+        "Description": "Fruit Trees",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "171": {
+        "Description": "Tree Places",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "172": {
+        "Description": "Garden Growing Wild",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "173": {
+        "Description": "Garden Wall",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "174": {
+        "Description": "Trellised Walk",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "175": {
+        "Description": "Greenhouse",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "176": {
+        "Description": "Garden Seat",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "177": {
+        "Description": "Vegetable Garden",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "178": {
+        "Description": "Compost",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "179": {
+        "Description": "Alcoves",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "180": {
+        "Description": "Window Place",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "181": {
+        "Description": "The Fire",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "182": {
+        "Description": "Eating Atmosphere",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "183": {
+        "Description": "Workspace Enclosure",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "184": {
+        "Description": "Cooking Layout",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "185": {
+        "Description": "Sitting Circle",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "186": {
+        "Description": "Communal Sleeping",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "187": {
+        "Description": "Marriage Bed",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "188": {
+        "Description": "Bed Alcove",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "189": {
+        "Description": "Dressing Room",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "190": {
+        "Description": "Ceiling Height Variety",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "191": {
+        "Description": "The Shape Of Indoor Space",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "192": {
+        "Description": "Windows Overlooking Life",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "193": {
+        "Description": "Half-Open Wall",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "194": {
+        "Description": "Interior Windows",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "195": {
+        "Description": "Staircase Volume",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "196": {
+        "Description": "Corner Doors",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "197": {
+        "Description": "Thick Walls",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "198": {
+        "Description": "Closets Between Rooms",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "199": {
+        "Description": "Sunny Counter",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "200": {
+        "Description": "Open Shelves",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "201": {
+        "Description": "Waist-High Shelf",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "202": {
+        "Description": "Built-In Seats",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "203": {
+        "Description": "Child Caves",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "204": {
+        "Description": "Secret Place",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "205": {
+        "Description": "Structure Follows Social Spaces",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "206": {
+        "Description": "Efficient Structure",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "207": {
+        "Description": "Good Materials",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "208": {
+        "Description": "Gradual Stiffening",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "209": {
+        "Description": "Roof Layout",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "210": {
+        "Description": "Floor And Ceiling Layout",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "211": {
+        "Description": "Thickening The Outer Walls",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "212": {
+        "Description": "Columns At The Corners",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "213": {
+        "Description": "Final Column Distribution",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "214": {
+        "Description": "Root Foundations",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "215": {
+        "Description": "Ground Floor Slab",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "216": {
+        "Description": "Box Columns",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "217": {
+        "Description": "Perimeter Beams",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "218": {
+        "Description": "Wall Membrane",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "219": {
+        "Description": "Floor-Ceiling Vaults",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "220": {
+        "Description": "Roof Vaults",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "221": {
+        "Description": "Natural Doors And Windows",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "222": {
+        "Description": "Low Sill",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "223": {
+        "Description": "Deep Reveals",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "224": {
+        "Description": "Low Doorway",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "225": {
+        "Description": "Frames As Thickened Edges",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "226": {
+        "Description": "Column Place",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "227": {
+        "Description": "Column Connections",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "228": {
+        "Description": "Stair Vault",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "229": {
+        "Description": "Duct Space",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "230": {
+        "Description": "Radiant Heat",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "231": {
+        "Description": "Dormer Windows",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "232": {
+        "Description": "Roof Caps",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "233": {
+        "Description": "Floor Surface",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "234": {
+        "Description": "Lapped Outside Walls",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "235": {
+        "Description": "Soft Inside Walls",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "236": {
+        "Description": "Windows Which Open Wide",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "237": {
+        "Description": "Solid Doors With Glass",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "238": {
+        "Description": "Filtered Light",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "239": {
+        "Description": "Small Panes",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "240": {
+        "Description": "Half-Inch Trim",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "241": {
+        "Description": "Seat Spots",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "242": {
+        "Description": "Front Door Bench",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "243": {
+        "Description": "Sitting Wall",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "244": {
+        "Description": "Canvas Roofs",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "245": {
+        "Description": "Raised Flowers",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    },
+    "246": {
+        "Description": "Climbing Plants",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "247": {
+        "Description": "Paving With Cracks Between The Stones",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "248": {
+        "Description": "Soft Tile And Brick",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "249": {
+        "Description": "Ornament",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "250": {
+        "Description": "Warm Colors",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "251": {
+        "Description": "Different Chairs",
+        "Asterisks": {
+            "AsterisksPrint": "",
+            "AsterisksCount": 0
+        }
+    },
+    "252": {
+        "Description": "Pools Of Light",
+        "Asterisks": {
+            "AsterisksPrint": "**",
+            "AsterisksCount": 2
+        }
+    },
+    "253": {
+        "Description": "Things From Your Life",
+        "Asterisks": {
+            "AsterisksPrint": "*",
+            "AsterisksCount": 1
+        }
+    }
+}
